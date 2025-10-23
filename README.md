@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python,html.css,**
 
-- 📫 How to reach me **neevkumar2007@gmail.com**
-
 - 📄 Know about my experiences [i am currently in ist year in Newton School of Technology](i am currently in ist year in Newton School of Technology)
 
 - 📝Facts about me **I am ambivert , helping nature**
